@@ -1,1 +1,3 @@
+We are looking for a data science intern with skills in Python, SQL, and data analysis.
+Candidates should be able to clean and process datasets and generate reports.
 
