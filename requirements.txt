@@ -1,1 +1,6 @@
-
+streamlit
+nltk
+scikit-learn
+sentence-transformers
+transformers
+torch
