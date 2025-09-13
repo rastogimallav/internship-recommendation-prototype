@@ -1,1 +1,4 @@
-
+John Verma
+Skills: Python, SQL, Data Analysis, Excel
+Projects: Built dashboards in Excel, cleaned datasets using Python Pandas
+Experience: Interned at XYZ Analytics as a junior data analyst
